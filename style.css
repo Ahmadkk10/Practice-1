@@ -86,6 +86,7 @@ header
     border: 8px solid #042331 ;
     background-color: #042331;
     float: right;
+    position: relative;
   }
 
   .title
